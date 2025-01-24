@@ -1,6 +1,6 @@
-spring:
-  application:
-    name: user-service-config
+#spring:
+#  application:
+ #   name: user-service-config
 eureka:
   client:
     fetch-registry: true
